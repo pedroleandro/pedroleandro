@@ -1,146 +1,61 @@
-<h1 align="center">👨‍💻 Pedro Leandro Gomes da Silva</h1>
+<h1 align="center">
+Pedro Leandro
+</h1>
 
 <p align="center">
-  <strong>Software Developer • Programming Instructor</strong><br>
-  Backend • APIs • Automação • Educação em Tecnologia
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-Backend-blue?logo=php">
-  <img src="https://img.shields.io/badge/Python-Automation-yellow?logo=python">
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql">
-  <img src="https://img.shields.io/badge/Docker-DevOps-informational?logo=docker">
-  <img src="https://img.shields.io/badge/Teacher-SENAC-success">
-</p>
-
-<p align="center">
-  <em>Construindo soluções reais e formando pessoas através da tecnologia 🚀</em>
+  <!-- Stack -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </p>
 
 ---
 
-## 👋 Sobre mim
+## Sobre
 
-Sou desenvolvedor de software desde **2012**, formado em **Ciência da Computação**, com atuação focada em **backend**, **automação de processos**, **integração de sistemas** e **ensino de programação**.
+Sou desenvolvedor de software desde **2020**, formado em **Ciência da Computação**, com foco no desenvolvimento de *
+*aplicações web utilizando PHP e Laravel**.
 
-Minha trajetória une **mercado e educação**, combinando:
-- experiência prática em produção
-- base técnica sólida
-- comunicação clara e didática
+Atuo principalmente com:
 
----
-
-## 🧠 Áreas de Atuação
-
-🔹 Desenvolvimento backend e APIs  
-🔹 Automação de processos e rotinas corporativas  
-🔹 Integração com sistemas ERP (TOTVS)  
-🔹 Deploy e manutenção de aplicações em VPS  
-🔹 Ensino de programação e fundamentos de computação
+- Desenvolvimento **Backend com Laravel**
+- Criação de **APIs RESTful**
+- Construção de Sistemas Web com **Laravel + Vue + Inertia + Tailwind**
 
 ---
 
-## 🛠️ Stack Técnica
+## Experiência
 
-### 💻 Linguagens
-<p>
-  <img src="https://img.shields.io/badge/PHP-Advanced-blue?logo=php">
-  <img src="https://img.shields.io/badge/Python-Advanced-yellow?logo=python">
-  <img src="https://img.shields.io/badge/Java-Backend-red?logo=java">
-  <img src="https://img.shields.io/badge/JavaScript-Web-yellow?logo=javascript">
-</p>
-
-### ⚙️ Frameworks & Backend
-- Laravel • Spring Boot • FastAPI
-- APIs RESTful
-- Clean Code & organização de projetos
-
-### 🗄️ Bancos de Dados
-- MySQL • PostgreSQL
-- MongoDB • Redis
-
-### 🧰 Ferramentas & Infraestrutura
-- Docker
-- Git & GitHub
-- Linux
-- VPS (deploy, configuração e manutenção)
-- Scrum & Kanban
+- Desenvolvimento de aplicações web com **Laravel**
+- Criação de **APIs e sistemas corporativos**
+- Integração com sistemas TOTVS Winthor e TOTVS RM
+- Deploy e manutenção de aplicações
 
 ---
 
-## 💼 Experiência em Desenvolvimento
+## Docência
 
-✔ Desenvolvimento de aplicações backend com **PHP e Python**  
-✔ Automação de processos internos e rotinas de negócio  
-✔ Integração com **sistemas TOTVS**  
-✔ Aplicações em produção com versionamento e containers
+Também atuo como **instrutor de programação**, ensinando:
 
-> Foco em soluções estáveis, organizadas e de fácil manutenção.
-
----
-
-## 👨‍🏫 Atuação como Professor
-
-### 🏫 SENAC — desde março de 2024
-📘 **Atualmente ministrando aulas no curso Técnico em Informática para Internet**
-
-Conteúdos ministrados:
-- HTML, CSS e JavaScript
-- PHP
-- Banco de Dados MySQL
 - Lógica de Programação
-- Boas Práticas e Código Limpo e Padrões de Projeto
+- Desenvolvimento Web
+- PHP e Banco de Dados
+- Código Limpo, Padrões de Projeto e SOLID
+
+Ensinar tecnologia faz parte do meu propósito profissional.
 
 ---
 
-### 🏫 Rede Municipal de Ensino
-👧👦 Ensino de programação para **crianças e adolescentes**, com foco em:
-
-- pensamento lógico
-- introdução à programação
-- criatividade e resolução de problemas
-- educação digital
-
-> Ensinar tecnologia faz parte do meu propósito profissional.
-
----
-
-## 🎓 Formação Acadêmica
-
-🎓 **Bacharel em Ciência da Computação**
-
-📌 Destaques acadêmicos:
-- TCC em **Python (Processamento de Imagens)**
-- Contato com:
-    - Compiladores
-    - Computação Gráfica
-    - Estruturas de Dados
-    - Algoritmos
-
----
-
-## 📈 Perfil Profissional
-
-- Desenvolvedor com autonomia técnica
-- Boa leitura e manutenção de código legado
-- Facilidade para aprender novas tecnologias
-- Forte capacidade de comunicação técnica
-
-🎯 Em constante evolução, com foco em:
-- arquitetura de software
-- boas práticas
-- código limpo e sustentável
-
----
-
-## 🤝 Vamos nos conectar?
-
-💬 Explore meus repositórios  
-📚 Troco ideias sobre:
-- backend
-- automação
-- educação em tecnologia
-
-> Tecnologia bem feita transforma sistemas. Educação transforma pessoas.</strong>
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-leandro-gomes-da-silva-453268288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/pedroleandro.php" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://wa.me/99984228986" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
