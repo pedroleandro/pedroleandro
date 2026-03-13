@@ -15,8 +15,7 @@ Pedro Leandro
 
 ## Sobre
 
-Sou desenvolvedor de software desde **2020**, formado em **Ciência da Computação**, com foco no desenvolvimento de *
-*aplicações web utilizando PHP e Laravel**.
+Sou desenvolvedor fullstack, formado em **Ciências da Computação**, especialista em desenvolvimento web com **PHP e Laravel**.
 
 Atuo principalmente com:
 
