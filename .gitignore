@@ -5,3 +5,4 @@ storage/
 .env
 composer.lock
 
+resources/themes/startbootstrap-personal-gh-pages

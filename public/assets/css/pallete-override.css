@@ -1,0 +1,129 @@
+/*
+ * ============================================================
+ *  PALETA — Minimalista Premium
+ *  Branco + Preto + Laranja (#f97316) como única cor de destaque
+ *  Cole este bloco NO TOPO do seu styles.css, antes de qualquer coisa
+ * ============================================================
+ */
+
+:root {
+    /* ── Cor de destaque única ── */
+    --bs-primary:             #f97316;
+    --bs-primary-rgb:         249, 115, 22;
+
+    /* ── Secondary vira cinza escuro (neutro, sem cor) ── */
+    --bs-secondary:           #374151;
+    --bs-secondary-rgb:       55, 65, 81;
+
+    /* ── Fundo e texto ── */
+    --bs-body-bg:             #ffffff;
+    --bs-body-color:          #111827;
+    --bs-body-bg-rgb:         255, 255, 255;
+    --bs-body-color-rgb:      17, 24, 39;
+
+    /* ── Links ── */
+    --bs-link-color:          #f97316;
+    --bs-link-hover-color:    #ea6c0a;
+
+    /* ── Code color ── */
+    --bs-code-color:          #f97316;
+
+    /* ── Bordas mais suaves ── */
+    --bs-border-color:        #e5e7eb;
+    --bs-border-color-translucent: rgba(0, 0, 0, 0.08);
+}
+
+/* ── Botão primário ── */
+.btn-primary {
+    --bs-btn-color:              #fff;
+    --bs-btn-bg:                 #f97316;
+    --bs-btn-border-color:       #f97316;
+    --bs-btn-hover-color:        #fff;
+    --bs-btn-hover-bg:           #ea6c0a;
+    --bs-btn-hover-border-color: #e06509;
+    --bs-btn-focus-shadow-rgb:   249, 115, 22;
+    --bs-btn-active-color:       #fff;
+    --bs-btn-active-bg:          #e06509;
+    --bs-btn-active-border-color:#d45f08;
+    --bs-btn-disabled-color:     #fff;
+    --bs-btn-disabled-bg:        #f97316;
+    --bs-btn-disabled-border-color: #f97316;
+}
+
+/* ── Botão outline-primary ── */
+.btn-outline-primary {
+    --bs-btn-color:              #f97316;
+    --bs-btn-border-color:       #f97316;
+    --bs-btn-hover-color:        #fff;
+    --bs-btn-hover-bg:           #f97316;
+    --bs-btn-hover-border-color: #f97316;
+    --bs-btn-focus-shadow-rgb:   249, 115, 22;
+    --bs-btn-active-color:       #fff;
+    --bs-btn-active-bg:          #f97316;
+    --bs-btn-active-border-color:#f97316;
+    --bs-btn-disabled-color:     #f97316;
+    --bs-btn-disabled-bg:        transparent;
+    --bs-btn-disabled-border-color: #f97316;
+}
+
+/* ── Botão outline-dark (usado como secundário nas páginas) ── */
+.btn-outline-dark {
+    --bs-btn-color:              #111827;
+    --bs-btn-border-color:       #111827;
+    --bs-btn-hover-color:        #fff;
+    --bs-btn-hover-bg:           #111827;
+    --bs-btn-hover-border-color: #111827;
+}
+
+/* ── Gradiente primário → secundário ── */
+.bg-gradient-primary-to-secondary {
+    background: #f97316;
+    background: linear-gradient(135deg, #f97316 0%, #111827 100%);
+}
+
+/* ── Texto com gradiente ── */
+.text-gradient {
+    background: -webkit-linear-gradient(315deg, #f97316 0%, #111827 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* ── dots do profile: troca azul pelo laranja ── */
+.profile .dots-2 svg { fill: #f97316; }
+.profile .dots-4 svg { fill: #f97316; }
+
+/* ── navbar brand ── */
+.navbar-brand .fw-bolder { color: #f97316 !important; }
+
+/* ── Focus rings ── */
+.form-control:focus {
+    border-color: #fbc08a;
+    box-shadow: 0 0 0 0.25rem rgba(249, 115, 22, 0.2);
+}
+
+/* ── Pagination active ── */
+.page-link.active, .active > .page-link {
+    background-color: #f97316;
+    border-color: #f97316;
+}
+
+/* ── Progress bar ── */
+.progress-bar { background-color: #f97316; }
+
+/* ── List group active ── */
+.list-group-item.active {
+    background-color: #f97316;
+    border-color: #f97316;
+}
+
+/* ── Nav pills active ── */
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    background-color: #f97316;
+}
+
+/* ── Dropdown active item ── */
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: #f97316;
+}
