@@ -176,7 +176,7 @@
                            target="_blank" title="GitHub">
                             <i class="bi bi-github"></i>
                         </a>
-                        <a class="text-gradient" href="https://wa.me/55S99984228986" target="_blank" title="WhatsApp">
+                        <a class="text-gradient" href="https://wa.me/5599984228986" target="_blank" title="WhatsApp">
                             <i class="bi bi-whatsapp"></i>
                         </a>
                     </div>

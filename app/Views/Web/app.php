@@ -57,7 +57,7 @@
                 </div>
             </div>
             <div class="col-auto d-flex gap-3 fs-5">
-                <a class="text-gradient" href="https://wa.me/55S99984228986" target="_blank" title="WhatsApp">
+                <a class="text-gradient" href="https://wa.me/5599984228986" target="_blank" title="WhatsApp">
                     <i class="bi bi-whatsapp"></i>
                 </a>
                 <a class="text-gradient" href="https://github.com/pedroleandro" target="_blank" title="GitHub"
